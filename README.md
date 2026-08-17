@@ -80,7 +80,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,django,nodejs" />
 
 </p>
 
