@@ -231,7 +231,7 @@ React
       ↓
 Python & Django
       ↓
-Node.js & Express.js
+Node.js
       ↓
 REST APIs
       ↓
