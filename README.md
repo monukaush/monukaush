@@ -1,125 +1,202 @@
-# 👋 Hello, I'm Shivkant Sharma
+<!-- HEADER BANNER -->
 
-### 🚀 Full Stack Developer | C++ & DSA | AI & Generative AI Enthusiast
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=220&section=header&text=Shivkant%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-I'm a B.Tech student passionate about software development, problem solving,
-and building real-world applications. I enjoy working with modern web
-technologies and continuously exploring Artificial Intelligence and
-Generative AI.
+<!-- INTRO -->
 
----
+<h1 align="center">👋 Hello, I'm Shivkant Sharma</h1>
 
-## 👨‍💻 About Me
+<h3 align="center">
+🚀 Full Stack Developer | C++ & DSA | AI & Generative AI Enthusiast
+</h3>
 
-- 🎓 B.Tech Student
-- 💻 Full Stack Developer
-- 🧠 Practicing Data Structures & Algorithms in C++
-- ⚛️ Building web applications with React
-- 🐍 Working with Python & Django
-- 🟢 Exploring Node.js & Express.js
-- 🤖 Exploring AI & Generative AI
-- 🚀 Building real-world projects
-- 📚 Continuously learning new technologies
-- 🎯 Preparing for Software Development opportunities
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;C%2B%2B+%26+DSA+Enthusiast;React+%7C+Django+%7C+Node.js;Exploring+AI+%26+Generative+AI;Building+Real-World+Projects" />
+</p>
 
----
+<!-- PROFILE VIEWS -->
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=monukaush&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+</p>
 
-### 💻 Languages
+<!-- SOCIAL BUTTONS -->
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
 
-### 🎨 Frontend
+<a href="https://www.linkedin.com/in/shivkant-sharma-8a7a67337">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<a href="https://github.com/monukaush">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### ⚙️ Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
+
+🎓 B.Tech Student passionate about software development and problem solving.
+
+💻 Full Stack Developer interested in building modern and scalable web applications.
+
+🧠 Currently practicing Data Structures & Algorithms using C++.
+
+⚛️ Building frontend applications using React and Tailwind CSS.
+
+🐍 Working with Python and Django for backend development.
+
+🟢 Exploring Node.js and Express.js for backend development.
+
+🤖 Exploring Artificial Intelligence and Generative AI.
+
+🚀 Learning by building real-world projects.
+
+🎯 Preparing for software development opportunities.
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+
+</p>
+
+## 🎨 Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+</p>
+
+## ⚙️ Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
+
+</p>
+
+## 🗄️ Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+
+</p>
+
+## 🔧 Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🤖 AI Resume Analyzer
 
-An AI-powered web application that analyzes resumes, evaluates skills,
-identifies missing keywords, and provides personalized suggestions.
+AI-powered resume analysis platform that analyzes resumes, evaluates skills, identifies missing keywords and provides personalized suggestions.
 
-**Tech:** React • Tailwind CSS • Django • Python • AI
+**Tech Stack**
 
----
+React • Tailwind CSS • Django • Python • AI
+
+</td>
+
+<td width="50%">
 
 ### 💼 Portfolio Website
 
-A modern and responsive personal portfolio website showcasing my skills,
-projects, and development journey.
+Modern responsive portfolio website showcasing my skills, projects and development journey.
 
-**Tech:** React • Tailwind CSS • JavaScript
+**Tech Stack**
 
----
+React • Tailwind CSS • JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🛒 Flipkart Clone
 
-A frontend e-commerce website inspired by Flipkart, built to practice
-frontend development and responsive layouts.
+Frontend e-commerce website inspired by Flipkart built to practice responsive frontend development.
 
-**Tech:** HTML • CSS
+**Tech Stack**
 
----
+HTML • CSS
+
+</td>
+
+<td width="50%">
 
 ### 🎵 Spotify Clone
 
-A music streaming interface built to practice frontend development,
-layouts, and JavaScript functionality.
+Music streaming interface created to practice frontend development, layouts and JavaScript functionality.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech Stack**
 
----
+HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🧮 Calculator
 
-A simple calculator application built to practice JavaScript fundamentals,
-DOM manipulation, and user interactions.
+Simple calculator application built to practice JavaScript fundamentals and DOM manipulation.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech Stack**
 
----
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
 
 ### ⏰ Digital Clock
 
-A digital clock application that displays the current time dynamically
-using JavaScript.
+Dynamic digital clock displaying the current time using JavaScript.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🧠 DSA Journey
+# 🧠 DSA Journey
 
 I'm currently practicing **Data Structures & Algorithms using C++**.
 
-### Topics I'm working on:
+### 📚 Topics
 
 - Arrays
 - Strings
@@ -127,7 +204,7 @@ I'm currently practicing **Data Structures & Algorithms using C++**.
 - Searching
 - Binary Search
 - Recursion
-- Linked Lists
+- Linked List
 - Stack
 - Queue
 - Hashing
@@ -139,39 +216,25 @@ I'm currently practicing **Data Structures & Algorithms using C++**.
 - Graphs
 - Dynamic Programming
 
-🎯 **Goal:** Improve problem-solving skills and prepare for
-software development interviews.
+🎯 **Goal:** Become stronger at problem solving and prepare for software development interviews.
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 ```text
 C++ & DSA
-    ↓
+      ↓
 JavaScript
-    ↓
+      ↓
 React
-    ↓
+      ↓
 Python & Django
-    ↓
+      ↓
 Node.js & Express.js
-    ↓
+      ↓
 REST APIs
-    ↓
+      ↓
 Full Stack Development
-    ↓
+      ↓
 AI & Generative AI
-
-
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivkant-sharma-8a7a67337)
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning ideas into projects and solving coding problems
-one step at a time. 🚀
